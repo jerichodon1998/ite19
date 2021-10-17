@@ -1,0 +1,4 @@
+name=cal,course=BSCS,year=3,address=ampayon butuan city
+name=al,course=BSCS,year=3,address=ampayon butuan city
+name=jericho manilag,course=bscs,year=4,address=emenvile subd butuan city
+name=sean,course=bscs,year=4th,address=san france
